@@ -1,0 +1,29 @@
+.obere-suchleiste {
+    text-align: center;
+    margin-top: 10rem;
+  }
+  .obere-suchleiste .search-btn {
+    margin: 3px;
+  }
+  .obere-suchleiste #eingabe,
+  .obere-suchleiste #favoriten {
+    margin-bottom: 6px;
+  }
+ 
+ 
+  #ergebnisse {
+    margin: 0 auto;
+    width: 1200px;
+  }
+  
+  .gif-box {
+    margin: 0.5rem;
+    display: inline-block;
+    border: solid transparent;
+    height: auto;
+    width: auto;
+    text-align:center;
+  }
+  .gif-box img {
+    display: block;
+  }
